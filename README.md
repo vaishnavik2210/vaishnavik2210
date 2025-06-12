@@ -1,4 +1,4 @@
-👋 Hi there, I'm Vaishnavi K!  
+#👋 Hi there, I'm Vaishnavi K!  
 🎓 B.Tech in Artificial Intelligence and Data Science | Batch of 2027
 
 ---
@@ -35,10 +35,9 @@ I'm an enthusiastic and curious learner with a strong foundation in AI, Data Sci
 ---
 
 📫 Connect with Me  
-📧 Email: vaishnavik2210@gmail.com  
-🔗 LinkedIn: [Vaishnavi K](https://www.linkedin.com/in/vaishnavik2210/)  
+📧 Email: kvaishnavi962@gmail.com  
+🔗 LinkedIn: [Vaishnavi K](https://www.linkedin.com/in/vaishnavi-k22)  
 💻 GitHub: [@vaishnavik2210](https://github.com/vaishnavik2210)  
-📸 Instagram: [@vaishnavi_k_official](https://instagram.com/vaishnavi_k_official)
 
 ---
 
