@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hey there! 👋 I'm Vaishnavi
+  Hey there! I'm Vaishnavi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -69,10 +69,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavik2210&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavik2210&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavik2210&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Let's Connect!
