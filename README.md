@@ -62,10 +62,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavik2210&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavik2210&theme=tokyonight" height="180px"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavik2210&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🌐 Let's Connect!
 
 - 📩 **Email**: [kvaishnavi962@gmail.com](mailto:kvaishnavi962@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/vaishnavi-k22](https://www.linkedin.com/in/vaishnavi-k22)
-- 
+ 
 ✨ *“Stay curious. Keep building. Grow every day.”*
